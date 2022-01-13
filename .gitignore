@@ -1,0 +1,32 @@
+.sbt
+.sbtrc
+target/∂
+lib_managed/
+src_managed/
+project/boot/rm
+.history
+.cache
+
+/target
+*/target
+out/
+.idea/
+/*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+.DS_Store
+
+.bloop/
+.metals/
+metals.sbt
+.bsp/
+
+### VS Code ###
+.vscode/
+
+### Jenv ###
+.java-version
+
+TODO
